@@ -1,0 +1,6 @@
+Note:   -   Training takes about 3 minutes.
+        -   Predicting take about 10 minutes
+
+
+RMSE:   -   Train Score:   7.6 RMSE
+        -   Test Score:   13.0 RMSE
